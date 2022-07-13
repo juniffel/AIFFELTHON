@@ -1,1 +1,1 @@
-[E_01 CheckPoint](http://www.naver.com/)
+[E_01 CheckPoint](https://github.com/juniffel/project/blob/main/E_01/CheckPoint.md)
