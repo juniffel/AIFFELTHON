@@ -75,7 +75,7 @@
 
 **encoding = 'utf-8',encoding = 'cp949'로 해도 안 됨.**
 
-![2.png](2.PNG)
+![캡처2.png](캡처2.PNG)
 
 ### 해결
 
