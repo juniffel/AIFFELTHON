@@ -1,0 +1,547 @@
+Team,Nation,Pos,Age,MP,Min,Gls,CrdY,CrdR,xG
+Arsenal,ENG,"FW,MF",19.0,38,"2,978",11.0,6.0,0.0,9.7
+Arsenal,BRA,DF,23.0,35,"3,063",5.0,8.0,1.0,2.7
+Arsenal,ENG,GK,23.0,34,"3,060",0.0,1.0,0.0,0.0
+Arsenal,ENG,DF,23.0,32,"2,880",0.0,3.0,0.0,1.0
+Arsenal,NOR,MF,22.0,36,"2,785",7.0,4.0,0.0,4.8
+Arsenal,SUI,"MF,DF",28.0,27,"2,327",1.0,10.0,1.0,1.2
+Arsenal,GHA,MF,28.0,24,"2,028",2.0,6.0,0.0,2.5
+Arsenal,SCO,DF,24.0,22,"1,915",1.0,0.0,0.0,0.7
+Arsenal,ENG,"MF,FW",21.0,33,"1,921",10.0,1.0,0.0,5.8
+Arsenal,BRA,"FW,MF",20.0,29,"1,860",6.0,3.0,1.0,7.2
+Arsenal,FRA,"FW,MF",30.0,30,"1,782",4.0,0.0,0.0,7.9
+Arsenal,JPN,DF,22.0,21,"1,679",0.0,2.0,0.0,0.8
+Arsenal,POR,DF,29.0,21,"1,486",1.0,3.0,0.0,0.5
+Arsenal,POR,DF,21.0,22,"1,176",1.0,2.0,0.0,1.5
+Arsenal,BEL,MF,21.0,19,"1,134",0.0,5.0,0.0,0.6
+Arsenal,GAB,FW,32.0,14,"1,037",4.0,3.0,0.0,5.8
+Arsenal,ENG,DF,25.0,15,845,1.0,4.0,1.0,0.3
+Arsenal,ENG,FW,22.0,21,835,5.0,3.0,0.0,4.6
+Arsenal,EGY,MF,29.0,14,806,0.0,1.0,0.0,0.2
+Arsenal,CIV,"FW,MF",26.0,20,696,1.0,0.0,0.0,2.9
+Arsenal,GER,GK,29.0,4,360,0.0,0.0,0.0,0.0
+Arsenal,ENG,MF,23.0,8,268,0.0,0.0,0.0,0.0
+Arsenal,ESP,DF,27.0,2,180,0.0,1.0,0.0,0.3
+Arsenal,ENG,DF,26.0,2,170,0.0,0.0,0.0,0.1
+Arsenal,BIH,DF,28.0,2,91,0.0,1.0,0.0,0.0
+Arsenal,ENG,FW,20.0,2,70,0.0,0.0,0.0,0.3
+Arsenal,ENG,FW,21.0,1,20,0.0,0.0,0.0,0.0
+Aston Villa,POL,DF,23.0,38,"3,377",4.0,8.0,0.0,2.4
+Aston Villa,ARG,GK,28.0,36,"3,240",0.0,4.0,0.0,0.0
+Aston Villa,ENG,DF,28.0,36,"3,189",1.0,11.0,0.0,1.4
+Aston Villa,SCO,MF,26.0,35,"3,090",3.0,8.0,0.0,1.5
+Aston Villa,ENG,FW,25.0,35,"2,952",11.0,7.0,0.0,12.2
+Aston Villa,BRA,MF,23.0,34,"2,715",2.0,7.0,0.0,2.0
+Aston Villa,ENG,DF,23.0,29,"2,477",2.0,6.0,2.0,1.5
+Aston Villa,ENG,MF,20.0,34,"2,467",6.0,6.0,0.0,3.8
+Aston Villa,ARG,"FW,MF",24.0,35,"1,899",4.0,1.0,0.0,3.1
+Aston Villa,ENG,FW,29.0,30,"1,898",7.0,4.0,0.0,7.3
+Aston Villa,ENG,DF,25.0,17,"1,431",1.0,2.0,0.0,0.5
+Aston Villa,BRA,"MF,FW",29.0,19,"1,329",5.0,0.0,0.0,3.7
+Aston Villa,FRA,DF,28.0,16,"1,269",0.0,2.0,0.0,0.6
+Aston Villa,ENG,"DF,FW",36.0,24,"1,250",0.0,2.0,0.0,0.4
+Aston Villa,ZIM,MF,27.0,16,904,0.0,5.0,0.0,0.0
+Aston Villa,ENG,DF,26.0,11,831,1.0,1.0,0.0,0.2
+Aston Villa,JAM,"FW,MF",23.0,18,761,1.0,3.0,0.0,1.6
+Aston Villa,ENG,DF,23.0,9,508,0.0,1.0,0.0,0.2
+Aston Villa,ENG,DF,26.0,7,397,1.0,0.0,0.0,0.1
+Aston Villa,NED,"FW,MF",26.0,9,386,1.0,2.0,0.0,1.1
+Aston Villa,FRA,MF,26.0,10,356,0.0,0.0,0.0,0.0
+Aston Villa,ENG,"MF,FW",17.0,12,301,0.0,0.0,0.0,0.6
+Aston Villa,BFA,"MF,FW",25.0,9,220,0.0,0.0,0.0,0.3
+Aston Villa,ENG,MF,18.0,3,92,0.0,1.0,0.0,0.1
+Aston Villa,SWE,GK,31.0,1,90,0.0,0.0,0.0,0.0
+Aston Villa,ENG,GK,28.0,1,90,0.0,0.0,0.0,0.0
+Aston Villa,ENG,"MF,FW",19.0,3,27,0.0,0.0,0.0,0.0
+Aston Villa,ENG,FW,23.0,1,12,0.0,0.0,0.0,0.0
+Aston Villa,EGY,FW,26.0,1,11,0.0,0.0,0.0,0.1
+Aston Villa,ENG,FW,19.0,1,5,0.0,0.0,0.0,0.0
+Aston Villa,BRA,FW,24.0,1,1,0.0,0.0,0.0,0.0
+Brentford,SWE,DF,30.0,37,"3,321",3.0,7.0,0.0,2.9
+Brentford,DEN,MF,27.0,35,"3,054",3.0,8.0,0.0,3.2
+Brentford,FRA,FW,21.0,35,"2,905",4.0,4.0,0.0,9.7
+Brentford,ENG,DF,24.0,34,"2,776",3.0,2.0,0.0,1.8
+Brentford,ENG,FW,25.0,33,"2,909",12.0,8.0,0.0,12.0
+Brentford,JAM,DF,28.0,32,"2,694",1.0,1.0,0.0,1.5
+Brentford,GER,MF,23.0,31,"2,298",4.0,3.0,0.0,2.6
+Brentford,ESP,DF,24.0,31,"2,083",3.0,8.0,1.0,3.0
+Brentford,ESP,GK,25.0,24,"2,160",0.0,1.0,0.0,0.0
+Brentford,NOR,DF,23.0,24,"1,995",1.0,5.0,0.0,0.8
+Brentford,DEN,MF,25.0,31,"1,601",0.0,0.0,0.0,2.5
+Brentford,COD,"FW,MF",24.0,30,"1,284",7.0,0.0,0.0,3.7
+Brentford,DEN,DF,22.0,21,"1,240",1.0,1.0,0.0,0.3
+Brentford,ESP,GK,23.0,12,"1,080",0.0,0.0,0.0,0.0
+Brentford,NGA,MF,23.0,20,"1,045",0.0,4.0,0.0,1.1
+Brentford,DEN,MF,29.0,11,939,1.0,1.0,0.0,1.4
+Brentford,GRN,MF,23.0,22,910,1.0,2.0,1.0,0.7
+Brentford,DEN,DF,22.0,11,835,0.0,3.0,0.0,0.1
+Brentford,DEN,DF,31.0,8,518,1.0,2.0,0.0,0.1
+Brentford,IRN,"DF,MF",27.0,17,536,1.0,2.0,0.0,0.6
+Brentford,ENG,DF,25.0,6,450,0.0,3.0,0.0,0.1
+Brentford,ENG,"MF,FW",22.0,9,257,0.0,0.0,1.0,0.0
+Brentford,DEN,GK,32.0,2,180,0.0,0.0,0.0,0.0
+Brentford,ENG,DF,21.0,2,146,0.0,0.0,0.0,0.0
+Brentford,FIN,"FW,MF",22.0,7,209,0.0,0.0,0.0,0.2
+Brentford,DEN,MF,20.0,4,41,0.0,0.0,0.0,0.0
+Brentford,GHA,DF,25.0,1,17,0.0,0.0,0.0,0.0
+Brentford,WAL,DF,18.0,1,15,0.0,0.0,0.0,0.0
+Brentford,ENG,FW,18.0,1,4,0.0,0.0,0.0,0.0
+Brighton & Hove Albion,ESP,GK,23.0,37,"3,329",0.0,3.0,1.0,0.0
+Brighton & Hove Albion,ESP,DF,23.0,35,"3,089",1.0,6.0,0.0,0.7
+Brighton & Hove Albion,NED,DF,29.0,34,"2,874",1.0,6.0,0.0,0.9
+Brighton & Hove Albion,BEL,"FW,MF",26.0,34,"2,805",8.0,2.0,0.0,6.8
+Brighton & Hove Albion,ENG,DF,29.0,29,"2,573",1.0,3.0,1.0,1.2
+Brighton & Hove Albion,FRA,FW,24.0,32,"2,276",8.0,7.0,0.0,7.7
+Brighton & Hove Albion,MLI,MF,24.0,26,"2,111",1.0,10.0,0.0,0.9
+Brighton & Hove Albion,GER,"MF,DF",30.0,29,"2,038",2.0,1.0,0.0,2.9
+Brighton & Hove Albion,ARG,"MF,FW",22.0,33,"2,123",5.0,4.0,0.0,6.5
+Brighton & Hove Albion,POL,"MF,FW",22.0,28,"1,701",0.0,1.0,0.0,2.4
+Brighton & Hove Albion,ENG,MF,33.0,24,"1,561",0.0,4.0,0.0,1.2
+Brighton & Hove Albion,ENG,"DF,FW",27.0,31,"1,746",0.0,1.0,0.0,1.5
+Brighton & Hove Albion,ENG,"DF,FW",20.0,30,"1,561",0.0,4.0,0.0,0.8
+Brighton & Hove Albion,ENG,DF,26.0,22,"1,434",2.0,5.0,0.0,1.1
+Brighton & Hove Albion,ENG,FW,30.0,25,"1,478",6.0,0.0,0.0,6.1
+Brighton & Hove Albion,IRL,DF,29.0,18,"1,436",1.0,7.0,0.0,1.3
+Brighton & Hove Albion,ENG,DF,29.0,13,"1,022",1.0,4.0,0.0,1.3
+Brighton & Hove Albion,ZAM,"MF,FW",23.0,18,996,2.0,2.0,0.0,1.9
+Brighton & Hove Albion,ECU,MF,19.0,8,660,1.0,2.0,0.0,0.8
+Brighton & Hove Albion,COL,MF,22.0,9,404,0.0,0.0,0.0,0.1
+Brighton & Hove Albion,IRL,FW,21.0,4,156,0.0,0.0,0.0,0.5
+Brighton & Hove Albion,ENG,GK,30.0,1,90,0.0,0.0,0.0,0.0
+Brighton & Hove Albion,ECU,"FW,MF",19.0,5,48,0.0,0.0,0.0,0.0
+Brighton & Hove Albion,ENG,"MF,FW",20.0,2,25,0.0,0.0,0.0,0.0
+Brighton & Hove Albion,IRL,MF,16.0,1,23,0.0,0.0,0.0,0.0
+Brighton & Hove Albion,NED,FW,27.0,1,23,0.0,0.0,0.0,0.1
+Burnley,ENG,GK,29.0,36,"3,240",0.0,1.0,0.0,0.0
+Burnley,ENG,MF,21.0,38,"3,107",0.0,1.0,0.0,2.3
+Burnley,ENG,DF,28.0,35,"3,106",1.0,11.0,0.0,2.0
+Burnley,ENG,MF,25.0,35,"2,955",2.0,10.0,0.0,1.4
+Burnley,ENG,DF,27.0,31,"2,731",0.0,3.0,0.0,0.2
+Burnley,ENG,MF,31.0,27,"2,287",0.0,7.0,0.0,0.8
+Burnley,ENG,DF,31.0,21,"1,839",3.0,3.0,0.0,1.8
+Burnley,CIV,"FW,MF",24.0,26,"1,766",9.0,2.0,0.0,6.7
+Burnley,ENG,DF,32.0,25,"1,772",1.0,3.0,1.0,0.6
+Burnley,ENG,MF,32.0,20,"1,670",1.0,4.0,0.0,0.8
+Burnley,WAL,DF,25.0,21,"1,692",1.0,2.0,0.0,0.2
+Burnley,IRL,DF,20.0,19,"1,670",2.0,2.0,1.0,1.6
+Burnley,ENG,MF,34.0,28,"1,551",2.0,2.0,0.0,1.1
+Burnley,NED,FW,28.0,20,"1,450",2.0,3.0,0.0,4.2
+Burnley,NZL,FW,29.0,17,"1,367",3.0,1.0,0.0,4.5
+Burnley,ENG,FW,32.0,29,"1,382",2.0,3.0,0.0,4.7
+Burnley,ISL,MF,30.0,18,"1,102",0.0,2.0,0.0,1.7
+Burnley,ENG,FW,31.0,23,808,1.0,4.0,0.0,1.8
+Burnley,NED,DF,32.0,12,730,0.0,1.0,0.0,0.2
+Burnley,CZE,FW,29.0,22,679,2.0,1.0,0.0,3.0
+Burnley,IRL,DF,30.0,6,410,0.0,1.0,0.0,0.2
+Burnley,WAL,GK,34.0,2,180,0.0,0.0,0.0,0.0
+Burnley,ENG,MF,32.0,3,124,0.0,1.0,0.0,0.0
+Chelsea,SEN,GK,29.0,34,"3,060",0.0,3.0,0.0,0.0
+Chelsea,GER,DF,28.0,34,"3,035",3.0,9.0,0.0,2.8
+Chelsea,BRA,DF,36.0,32,"2,650",3.0,2.0,0.0,0.9
+Chelsea,ENG,"MF,FW",22.0,32,"2,363",11.0,4.0,0.0,8.9
+Chelsea,ITA,MF,29.0,29,"2,273",6.0,5.0,0.0,5.7
+Chelsea,ESP,DF,30.0,28,"2,167",4.0,8.0,0.0,3.3
+Chelsea,ESP,DF,31.0,27,"2,070",1.0,3.0,0.0,1.2
+Chelsea,ENG,DF,21.0,26,"1,864",5.0,4.0,1.0,2.6
+Chelsea,GER,"FW,MF",22.0,29,"1,809",8.0,3.0,0.0,9.7
+Chelsea,FRA,MF,30.0,26,"1,773",2.0,2.0,0.0,1.8
+Chelsea,DEN,DF,25.0,19,"1,496",0.0,2.0,0.0,0.4
+Chelsea,ENG,DF,22.0,20,"1,449",3.0,2.0,0.0,1.0
+Chelsea,BEL,FW,28.0,26,"1,589",8.0,1.0,0.0,6.8
+Chelsea,CRO,MF,27.0,25,"1,558",2.0,4.0,0.0,1.8
+Chelsea,GER,"FW,MF",25.0,21,"1,283",4.0,1.0,0.0,7.6
+Chelsea,MAR,"FW,MF",28.0,23,"1,319",4.0,3.0,0.0,3.4
+Chelsea,ENG,"MF,DF",25.0,24,"1,394",0.0,1.0,0.0,1.2
+Chelsea,USA,"MF,FW",22.0,22,"1,290",6.0,2.0,0.0,5.1
+Chelsea,ENG,"FW,MF",20.0,15,962,1.0,1.0,0.0,2.1
+Chelsea,FRA,DF,22.0,8,546,0.0,2.0,0.0,0.0
+Chelsea,ENG,DF,24.0,7,542,3.0,0.0,0.0,1.2
+Chelsea,ESP,"MF,DF",26.0,10,480,0.0,1.0,0.0,0.2
+Chelsea,ESP,GK,26.0,4,360,0.0,0.0,0.0,0.0
+Chelsea,ENG,MF,27.0,6,179,1.0,0.0,0.0,1.2
+Chelsea,BRA,DF,25.0,1,58,0.0,0.0,0.0,0.1
+Chelsea,ITA,DF,26.0,1,5,0.0,0.0,0.0,0.0
+Crystal Palace,ENG,DF,21.0,36,"3,222",2.0,4.0,0.0,1.9
+Crystal Palace,ENG,DF,21.0,36,"3,101",0.0,1.0,0.0,0.3
+Crystal Palace,ENG,MF,21.0,34,"2,845",8.0,10.0,0.0,5.8
+Crystal Palace,DEN,DF,25.0,34,"2,916",0.0,4.0,0.0,0.6
+Crystal Palace,CIV,FW,28.0,33,"2,760",14.0,6.0,1.0,9.4
+Crystal Palace,ESP,GK,34.0,30,"2,655",0.0,2.0,0.0,0.0
+Crystal Palace,ENG,DF,31.0,28,"2,487",0.0,8.0,0.0,0.4
+Crystal Palace,GHA,FW,29.0,31,"2,019",3.0,2.0,0.0,3.7
+Crystal Palace,SEN,MF,31.0,27,"1,974",0.0,3.0,0.0,0.6
+Crystal Palace,GHA,"MF,FW",28.0,32,"1,851",4.0,1.0,0.0,3.1
+Crystal Palace,FRA,FW,23.0,28,"1,564",6.0,4.0,0.0,6.9
+Crystal Palace,SCO,MF,33.0,21,"1,439",0.0,4.0,0.0,0.3
+Crystal Palace,ENG,DF,30.0,16,"1,351",0.0,1.0,0.0,0.1
+Crystal Palace,FRA,FW,24.0,22,"1,145",5.0,2.0,0.0,5.5
+Crystal Palace,ENG,MF,26.0,16,"1,053",0.0,6.0,0.0,0.2
+Crystal Palace,FRA,"FW,MF",19.0,26,"1,141",2.0,4.0,0.0,1.4
+Crystal Palace,BEL,FW,30.0,25,"1,145",4.0,3.0,0.0,5.4
+Crystal Palace,SRB,MF,30.0,15,774,0.0,1.0,0.0,0.2
+Crystal Palace,ENG,GK,28.0,9,765,0.0,0.0,0.0,0.0
+Crystal Palace,ENG,"MF,FW",23.0,13,605,1.0,1.0,0.0,0.5
+Crystal Palace,ENG,DF,32.0,8,547,1.0,2.0,0.0,0.6
+Crystal Palace,NED,MF,24.0,3,118,0.0,0.0,0.0,0.0
+Crystal Palace,ENG,"FW,MF",18.0,2,80,0.0,0.0,0.0,0.0
+Crystal Palace,ENG,DF,20.0,1,9,0.0,0.0,0.0,0.0
+Everton,ENG,GK,27.0,35,"3,150",0.0,2.0,0.0,0.0
+Everton,ENG,DF,28.0,32,"2,792",3.0,4.0,1.0,1.2
+Everton,IRL,DF,32.0,30,"2,656",1.0,4.0,0.0,1.0
+Everton,MLI,MF,28.0,30,"2,537",2.0,6.0,0.0,2.7
+Everton,BRA,"FW,MF",24.0,30,"2,523",10.0,9.0,0.0,10.2
+Everton,ENG,"MF,FW",25.0,34,"2,338",5.0,3.0,0.0,4.5
+Everton,ENG,"MF,FW",20.0,35,"2,285",4.0,4.0,0.0,3.4
+Everton,BRA,MF,30.0,28,"2,183",0.0,7.0,1.0,0.2
+Everton,ENG,DF,24.0,25,"2,134",2.0,7.0,1.0,1.1
+Everton,ENG,DF,23.0,23,"2,029",0.0,6.0,0.0,1.1
+Everton,NGA,"MF,DF",25.0,28,"2,035",2.0,1.0,0.0,1.7
+Everton,ENG,MF,30.0,21,"1,455",3.0,3.0,0.0,2.3
+Everton,ENG,FW,24.0,17,"1,283",5.0,2.0,0.0,6.8
+Everton,FRA,DF,28.0,13,"1,170",0.0,4.0,0.0,0.4
+Everton,UKR,DF,22.0,13,"1,055",1.0,0.0,0.0,0.8
+Everton,ENG,DF,24.0,15,"1,018",0.0,3.0,1.0,0.3
+Everton,COL,DF,26.0,13,846,0.0,3.0,0.0,0.3
+Everton,VEN,FW,31.0,20,790,1.0,3.0,1.0,2.2
+Everton,ENG,MF,31.0,11,662,0.0,2.0,0.0,0.0
+Everton,POR,MF,28.0,14,619,0.0,3.0,0.0,0.7
+Everton,NED,MF,24.0,7,483,1.0,1.0,0.0,0.9
+Everton,ENG,DF,19.0,6,388,1.0,0.0,1.0,0.4
+Everton,BIH,GK,34.0,3,270,0.0,0.0,0.0,0.0
+Everton,ENG,MF,23.0,6,234,1.0,1.0,0.0,0.9
+Everton,ENG,MF,25.0,11,338,0.0,3.0,0.0,0.1
+Everton,CIV,MF,25.0,3,67,0.0,0.0,0.0,0.0
+Everton,ENG,FW,20.0,1,61,0.0,0.0,0.0,0.0
+Everton,ENG,"FW,MF",18.0,3,32,0.0,1.0,0.0,0.0
+Everton,ENG,"MF,FW",18.0,3,28,0.0,0.0,0.0,0.0
+Everton,NIR,MF,17.0,1,14,0.0,0.0,0.0,0.2
+Everton,NED,FW,26.0,2,13,0.0,0.0,0.0,0.0
+Everton,TUR,FW,30.0,1,7,0.0,0.0,0.0,0.0
+Everton,ITA,FW,21.0,1,1,0.0,0.0,0.0,0.0
+Leeds United,FRA,GK,21.0,38,"3,384",0.0,2.0,0.0,0.0
+Leeds United,NIR,"DF,MF",30.0,34,"2,919",1.0,5.0,0.0,2.0
+Leeds United,BRA,"FW,MF",24.0,35,"2,915",11.0,7.0,0.0,11.2
+Leeds United,ENG,"FW,MF",24.0,35,"2,639",8.0,3.0,0.0,4.0
+Leeds United,WAL,"FW,MF",23.0,32,"2,366",4.0,7.0,1.0,5.7
+Leeds United,ESP,DF,27.0,28,"2,340",3.0,7.0,0.0,1.4
+Leeds United,ESP,"MF,FW",30.0,31,"2,265",6.0,9.0,0.0,4.9
+Leeds United,ENG,DF,29.0,26,"2,272",2.0,4.0,1.0,1.6
+Leeds United,POL,MF,31.0,33,"2,073",1.0,5.0,0.0,2.7
+Leeds United,NED,DF,21.0,29,"2,055",1.0,6.0,1.0,1.3
+Leeds United,SCO,DF,29.0,21,"1,814",0.0,5.0,0.0,0.3
+Leeds United,ESP,DF,24.0,24,"1,711",0.0,11.0,0.0,0.9
+Leeds United,ENG,MF,25.0,20,"1,596",0.0,4.0,0.0,0.6
+Leeds United,GER,"MF,DF",25.0,20,"1,574",0.0,3.0,0.0,0.7
+Leeds United,ENG,MF,29.0,22,"1,530",0.0,5.0,0.0,0.4
+Leeds United,WAL,"MF,FW",22.0,23,987,1.0,5.0,0.0,2.4
+Leeds United,ENG,"DF,MF",21.0,14,709,0.0,4.0,0.0,0.2
+Leeds United,ENG,FW,27.0,9,559,2.0,2.0,0.0,3.9
+Leeds United,ENG,"FW,MF",19.0,20,746,2.0,4.0,0.0,3.1
+Leeds United,ENG,"MF,FW",19.0,7,237,0.0,0.0,0.0,0.4
+Leeds United,ENG,MF,18.0,3,146,0.0,0.0,0.0,0.0
+Leeds United,ENG,DF,18.0,5,141,0.0,1.0,0.0,0.1
+Leeds United,ENG,DF,19.0,3,128,0.0,1.0,0.0,0.0
+Leeds United,NOR,DF,17.0,2,150,0.0,0.0,0.0,0.0
+Leeds United,NED,"MF,FW",19.0,6,130,0.0,0.0,0.0,0.3
+Leeds United,NOR,GK,20.0,1,36,0.0,0.0,0.0,0.0
+Leeds United,ANG,MF,27.0,1,22,0.0,0.0,0.0,0.0
+Leeds United,SCO,FW,20.0,1,10,0.0,0.0,0.0,0.0
+Leeds United,SCO,MF,18.0,1,4,0.0,0.0,0.0,0.0
+Leicester City,DEN,GK,34.0,37,"3,330",0.0,2.0,0.0,0.0
+Leicester City,BEL,MF,24.0,32,"2,631",6.0,3.0,0.0,4.6
+Leicester City,TUR,DF,25.0,28,"2,497",1.0,5.0,0.0,1.4
+Leicester City,ENG,"MF,FW",24.0,35,"2,459",12.0,3.0,0.0,8.2
+Leicester City,ENG,"FW,MF",23.0,32,"2,101",6.0,2.0,0.0,6.8
+Leicester City,GHA,DF,26.0,28,"2,123",0.0,4.0,0.0,0.0
+Leicester City,ENG,MF,22.0,28,"2,105",1.0,4.0,0.0,1.3
+Leicester City,BEL,DF,25.0,27,"2,127",1.0,1.0,0.0,0.8
+Leicester City,ENG,DF,20.0,22,"1,912",0.0,2.0,0.0,0.2
+Leicester City,ENG,FW,34.0,25,"1,806",15.0,2.0,0.0,9.5
+Leicester City,NGA,"MF,DF",24.0,19,"1,618",0.0,4.0,0.0,1.0
+Leicester City,NGA,"FW,MF",23.0,26,"1,453",6.0,2.0,0.0,5.1
+Leicester City,NIR,DF,33.0,18,"1,348",1.0,3.0,0.0,0.7
+Leicester City,NGA,FW,24.0,26,"1,264",4.0,1.0,0.0,3.4
+Leicester City,ZAM,FW,22.0,23,"1,159",5.0,2.0,0.0,4.7
+Leicester City,POR,DF,27.0,14,991,1.0,3.0,0.0,0.7
+Leicester City,FRA,MF,22.0,19,"1,102",0.0,0.0,0.0,0.4
+Leicester City,SEN,MF,29.0,14,"1,032",0.0,3.0,0.0,0.0
+Leicester City,ENG,"FW,DF",31.0,17,"1,132",1.0,3.0,0.0,0.5
+Leicester City,ENG,DF,23.0,13,998,0.0,0.0,0.0,0.6
+Leicester City,FRA,DF,20.0,7,630,0.0,2.0,0.0,0.2
+Leicester City,DEN,DF,28.0,10,567,0.0,2.0,0.0,0.1
+Leicester City,ESP,"MF,FW",28.0,14,445,2.0,0.0,1.0,1.5
+Leicester City,ENG,DF,31.0,4,337,0.0,1.0,0.0,0.0
+Leicester City,ENG,"DF,MF",23.0,6,285,0.0,1.0,0.0,0.0
+Leicester City,WAL,GK,28.0,1,90,0.0,0.0,0.0,0.0
+Leicester City,ENG,MF,20.0,1,24,0.0,0.0,0.0,0.0
+Leicester City,ENG,FW,19.0,1,3,0.0,0.0,0.0,0.0
+Liverpool,BRA,GK,28.0,36,"3,240",0.0,0.0,0.0,0.0
+Liverpool,NED,DF,30.0,34,"3,060",3.0,3.0,0.0,2.4
+Liverpool,ENG,DF,22.0,32,"2,853",2.0,2.0,0.0,2.7
+Liverpool,SEN,FW,29.0,34,"2,819",16.0,5.0,0.0,16.7
+Liverpool,CMR,DF,29.0,31,"2,790",3.0,2.0,0.0,3.1
+Liverpool,EGY,FW,29.0,35,"2,762",23.0,1.0,0.0,21.8
+Liverpool,ENG,MF,31.0,35,"2,597",2.0,3.0,0.0,1.5
+Liverpool,SCO,DF,27.0,29,"2,537",3.0,5.0,1.0,1.9
+Liverpool,POR,FW,24.0,35,"2,364",15.0,3.0,0.0,16.1
+Liverpool,BRA,MF,27.0,29,"2,314",5.0,7.0,0.0,3.4
+Liverpool,ESP,MF,30.0,25,"1,534",1.0,2.0,0.0,1.8
+Liverpool,GUI,MF,26.0,23,"1,173",3.0,3.0,0.0,2.3
+Liverpool,FRA,DF,22.0,11,990,0.0,2.0,0.0,0.3
+Liverpool,COL,FW,24.0,13,958,4.0,0.0,0.0,4.5
+Liverpool,BRA,FW,29.0,20,990,5.0,3.0,0.0,5.0
+Liverpool,ENG,MF,20.0,15,851,1.0,0.0,0.0,0.9
+Liverpool,GRE,DF,25.0,13,877,0.0,3.0,0.0,0.5
+Liverpool,ENG,"MF,DF",35.0,24,853,0.0,2.0,0.0,0.3
+Liverpool,ENG,"MF,FW",27.0,17,785,2.0,0.0,0.0,1.2
+Liverpool,ENG,MF,18.0,6,346,0.0,0.0,0.0,0.9
+Liverpool,ENG,DF,24.0,8,331,0.0,2.0,0.0,0.0
+Liverpool,IRL,GK,22.0,2,180,0.0,0.0,0.0,0.0
+Liverpool,JPN,"FW,MF",26.0,11,186,3.0,1.0,0.0,1.8
+Liverpool,ENG,MF,18.0,2,66,0.0,1.0,0.0,0.0
+Liverpool,BEL,FW,26.0,7,133,3.0,0.0,0.0,1.6
+Liverpool,ENG,FW,16.0,1,9,0.0,0.0,0.0,0.4
+Liverpool,WAL,DF,20.0,1,8,0.0,0.0,0.0,0.0
+Manchester City,BRA,GK,27.0,37,"3,330",0.0,3.0,0.0,0.0
+Manchester City,POR,DF,27.0,36,"3,227",1.0,7.0,0.0,4.1
+Manchester City,ESP,MF,25.0,33,"2,884",7.0,5.0,0.0,2.7
+Manchester City,POR,"MF,FW",26.0,35,"2,857",8.0,6.0,0.0,6.8
+Manchester City,ESP,DF,27.0,33,"2,828",4.0,5.0,1.0,4.4
+Manchester City,POR,DF,24.0,29,"2,402",2.0,5.0,0.0,2.2
+Manchester City,BEL,MF,30.0,30,"2,201",15.0,2.0,0.0,6.4
+Manchester City,ENG,FW,21.0,28,"2,128",9.0,1.0,0.0,9.1
+Manchester City,ENG,FW,26.0,30,"2,128",13.0,1.0,0.0,14.4
+Manchester City,ENG,FW,25.0,26,"1,914",3.0,3.0,0.0,4.8
+Manchester City,BRA,FW,24.0,28,"1,877",8.0,1.0,0.0,10.1
+Manchester City,GER,MF,30.0,27,"1,857",8.0,1.0,0.0,8.6
+Manchester City,ENG,DF,31.0,20,"1,755",0.0,1.0,0.0,0.3
+Manchester City,ALG,FW,30.0,28,"1,498",11.0,0.0,0.0,10.1
+Manchester City,ENG,DF,27.0,14,"1,119",1.0,0.0,0.0,1.0
+Manchester City,UKR,DF,24.0,15,"1,047",0.0,0.0,0.0,0.4
+Manchester City,BRA,"MF,DF",36.0,19,964,2.0,1.0,0.0,1.6
+Manchester City,NED,DF,26.0,14,923,2.0,0.0,0.0,1.1
+Manchester City,ESP,FW,21.0,4,303,2.0,0.0,0.0,2.5
+Manchester City,ENG,"FW,MF",19.0,4,123,0.0,0.0,0.0,0.3
+Manchester City,USA,GK,26.0,1,90,0.0,0.0,0.0,0.0
+Manchester City,FRA,DF,27.0,1,78,0.0,0.0,0.0,0.0
+Manchester City,ENG,"MF,FW",18.0,2,20,0.0,0.0,0.0,0.0
+Manchester City,ENG,FW,18.0,1,10,0.0,0.0,0.0,0.0
+Manchester City,BRA,FW,18.0,1,7,0.0,0.0,0.0,0.0
+Manchester City,ENG,DF,18.0,1,4,0.0,0.0,0.0,0.0
+Manchester United,ESP,GK,30.0,38,"3,420",0.0,0.0,0.0,0.0
+Manchester United,POR,MF,26.0,36,"3,111",10.0,10.0,0.0,9.7
+Manchester United,ENG,DF,28.0,30,"2,515",1.0,9.0,1.0,1.7
+Manchester United,SCO,MF,24.0,30,"2,387",1.0,9.0,0.0,1.5
+Manchester United,POR,FW,36.0,30,"2,456",18.0,8.0,0.0,16.5
+Manchester United,SWE,DF,27.0,28,"2,355",0.0,4.0,0.0,0.3
+Manchester United,BRA,MF,28.0,28,"2,028",4.0,5.0,0.0,1.5
+Manchester United,ENG,"FW,MF",21.0,29,"1,900",3.0,0.0,0.0,3.3
+Manchester United,FRA,DF,28.0,22,"1,831",1.0,0.0,0.0,0.8
+Manchester United,ENG,DF,23.0,20,"1,793",0.0,2.0,0.0,0.2
+Manchester United,POR,DF,22.0,24,"1,801",0.0,4.0,0.0,0.7
+Manchester United,ENG,DF,26.0,20,"1,601",0.0,8.0,0.0,0.2
+Manchester United,BRA,DF,28.0,21,"1,660",0.0,1.0,0.0,0.5
+Manchester United,SRB,MF,32.0,23,"1,382",0.0,3.0,0.0,0.2
+Manchester United,FRA,"MF,FW",28.0,20,"1,349",1.0,7.0,1.0,2.4
+Manchester United,ENG,"FW,MF",19.0,18,"1,271",5.0,1.0,0.0,4.4
+Manchester United,SWE,FW,19.0,21,"1,214",2.0,0.0,0.0,3.0
+Manchester United,ENG,"FW,MF",23.0,25,"1,235",4.0,2.0,0.0,2.4
+Manchester United,URU,FW,34.0,15,766,2.0,0.0,0.0,3.4
+Manchester United,CIV,DF,27.0,4,217,0.0,1.0,0.0,0.0
+Manchester United,ENG,"FW,MF",28.0,16,367,2.0,1.0,0.0,0.7
+Manchester United,ESP,MF,33.0,7,235,0.0,0.0,0.0,0.3
+Manchester United,FRA,FW,25.0,8,212,1.0,0.0,0.0,0.4
+Manchester United,ENG,DF,29.0,4,163,0.0,0.0,0.0,0.0
+Manchester United,WAL,FW,23.0,2,126,0.0,0.0,0.0,0.2
+Manchester United,TUN,FW,18.0,2,68,0.0,2.0,0.0,0.1
+Manchester United,NED,MF,24.0,8,75,1.0,0.0,0.0,0.7
+Manchester United,ENG,FW,17.0,1,16,0.0,0.0,0.0,0.0
+Manchester United,ESP,FW,17.0,2,13,0.0,0.0,0.0,0.0
+Newcastle United,FRA,"FW,MF",24.0,35,"2,804",5.0,6.0,0.0,5.1
+Newcastle United,BRA,"MF,FW",24.0,35,"2,558",4.0,8.0,0.0,4.1
+Newcastle United,SVK,GK,32.0,26,"2,340",0.0,1.0,0.0,0.0
+Newcastle United,SUI,DF,29.0,25,"2,158",2.0,4.0,0.0,1.3
+Newcastle United,ENG,MF,21.0,29,"2,038",2.0,0.0,0.0,3.6
+Newcastle United,ENG,DF,27.0,26,"2,058",1.0,5.0,0.0,1.1
+Newcastle United,ENG,MF,29.0,24,"1,983",2.0,7.0,1.0,0.9
+Newcastle United,PAR,"MF,FW",27.0,30,"1,716",1.0,2.0,0.0,2.1
+Newcastle United,SWE,DF,26.0,20,"1,634",0.0,5.0,0.0,0.2
+Newcastle United,SCO,"FW,MF",27.0,27,"1,465",2.0,3.0,0.0,2.8
+Newcastle United,ENG,DF,29.0,16,"1,440",0.0,4.0,0.0,0.5
+Newcastle United,ENG,DF,25.0,16,"1,440",0.0,1.0,0.0,0.3
+Newcastle United,ENG,FW,29.0,18,"1,386",8.0,4.0,0.0,6.5
+Newcastle United,ENG,MF,23.0,24,"1,464",1.0,1.0,0.0,1.2
+Newcastle United,NZL,FW,29.0,17,"1,327",2.0,0.0,0.0,2.9
+Newcastle United,ESP,DF,27.0,19,"1,257",1.0,5.0,0.0,0.5
+Newcastle United,SCO,DF,31.0,18,"1,337",0.0,5.0,0.0,0.4
+Newcastle United,ENG,"FW,DF",26.0,33,"1,473",1.0,4.0,0.0,2.9
+Newcastle United,IRL,DF,31.0,13,"1,014",0.0,2.0,1.0,0.8
+Newcastle United,ENG,"MF,DF",26.0,14,"1,002",1.0,5.0,0.0,0.4
+Newcastle United,BRA,MF,23.0,17,"1,034",5.0,4.0,0.0,2.9
+Newcastle United,ENG,GK,30.0,8,720,0.0,1.0,0.0,0.0
+Newcastle United,ARG,DF,32.0,7,523,0.0,0.0,0.0,0.4
+Newcastle United,ENG,DF,30.0,6,429,2.0,0.0,0.0,0.1
+Newcastle United,ENG,GK,24.0,4,360,0.0,0.0,0.0,0.0
+Newcastle United,NIR,DF,23.0,5,262,0.0,1.0,0.0,0.0
+Newcastle United,WAL,DF,29.0,3,198,0.0,2.0,0.0,0.0
+Newcastle United,IRL,MF,29.0,3,72,1.0,0.0,0.0,0.0
+Newcastle United,ENG,FW,30.0,8,38,0.0,1.0,0.0,0.3
+Norwich City,FIN,FW,31.0,37,"3,253",11.0,4.0,0.0,11.5
+Norwich City,SCO,DF,29.0,33,"2,897",1.0,2.0,0.0,1.9
+Norwich City,ENG,DF,21.0,34,"2,881",0.0,8.0,0.0,0.7
+Norwich City,SCO,MF,29.0,31,"2,706",1.0,3.0,0.0,1.9
+Norwich City,NED,GK,33.0,29,"2,610",0.0,1.0,0.0,0.0
+Norwich City,ENG,DF,28.0,28,"2,494",0.0,5.0,1.0,1.2
+Norwich City,FRA,MF,28.0,33,"2,265",1.0,5.0,0.0,1.6
+Norwich City,KVX,"FW,MF",25.0,31,"2,229",1.0,0.0,0.0,2.7
+Norwich City,ENG,DF,20.0,26,"2,120",0.0,8.0,0.0,0.2
+Norwich City,SCO,MF,20.0,24,"1,855",0.0,2.0,0.0,1.0
+Norwich City,NOR,MF,25.0,23,"1,645",1.0,6.0,0.0,0.9
+Norwich City,USA,"FW,MF",21.0,26,"1,572",2.0,1.0,0.0,2.7
+Norwich City,GRE,DF,25.0,18,"1,169",0.0,2.0,0.0,0.2
+Norwich City,ENG,DF,27.0,15,"1,027",0.0,3.0,0.0,0.9
+Norwich City,TUR,DF,21.0,11,922,0.0,2.0,0.0,0.2
+Norwich City,ENG,"FW,MF",23.0,19,912,1.0,0.0,0.0,1.2
+Norwich City,ENG,GK,25.0,9,810,0.0,0.0,0.0,0.0
+Norwich City,GER,MF,30.0,19,769,0.0,0.0,0.0,0.7
+Norwich City,IRL,"FW,MF",20.0,17,625,1.0,0.0,0.0,2.0
+Norwich City,DEN,"MF,DF",23.0,10,604,0.0,0.0,0.0,0.4
+Norwich City,POL,"FW,MF",23.0,12,504,0.0,1.0,0.0,0.5
+Norwich City,ENG,"FW,MF",23.0,8,441,0.0,2.0,0.0,0.2
+Norwich City,IRL,DF,19.0,5,382,1.0,1.0,0.0,0.3
+Norwich City,GRE,"FW,MF",19.0,14,336,0.0,0.0,0.0,0.5
+Norwich City,GER,DF,28.0,3,157,0.0,0.0,0.0,0.1
+Norwich City,ENG,"FW,MF",18.0,3,141,0.0,1.0,0.0,0.3
+Norwich City,ENG,"FW,MF",18.0,13,223,0.0,0.0,0.0,0.4
+Norwich City,ENG,DF,19.0,1,45,0.0,0.0,0.0,0.0
+Southampton,ENG,MF,26.0,36,"3,215",10.0,3.0,1.0,5.4
+Southampton,ESP,MF,29.0,36,"2,889",2.0,9.0,0.0,1.3
+Southampton,GHA,DF,22.0,34,"2,972",0.0,10.0,1.0,1.8
+Southampton,POL,DF,25.0,31,"2,629",4.0,10.0,0.0,2.4
+Southampton,ENG,DF,24.0,32,"2,633",1.0,5.0,0.0,1.0
+Southampton,ENG,DF,18.0,28,"2,202",1.0,2.0,0.0,1.2
+Southampton,NOR,"MF,FW",26.0,30,"2,042",4.0,4.0,0.0,6.0
+Southampton,SCO,FW,25.0,30,"2,039",7.0,0.0,0.0,7.1
+Southampton,ALB,FW,19.0,32,"1,975",6.0,2.0,0.0,7.0
+Southampton,ENG,"MF,FW",27.0,27,"1,833",1.0,0.0,0.0,1.9
+Southampton,ENG,GK,33.0,19,"1,710",0.0,1.0,0.0,0.0
+Southampton,FRA,DF,23.0,20,"1,623",0.0,3.0,0.0,0.9
+Southampton,ENG,GK,31.0,17,"1,530",0.0,1.0,0.0,0.0
+Southampton,ENG,FW,24.0,23,"1,413",2.0,1.0,0.0,4.3
+Southampton,SCO,MF,29.0,25,"1,473",2.0,1.0,0.0,2.8
+Southampton,FRA,MF,22.0,23,"1,023",0.0,1.0,0.0,0.5
+Southampton,ENG,"MF,FW",22.0,14,804,0.0,2.0,0.0,0.5
+Southampton,BRA,DF,24.0,15,911,0.0,2.0,0.0,0.2
+Southampton,ENG,DF,27.0,11,811,0.0,3.0,0.0,0.0
+Southampton,MLI,MF,23.0,12,457,0.0,3.0,0.0,1.5
+Southampton,ENG,"MF,FW",32.0,9,379,0.0,0.0,0.0,0.7
+Southampton,FRA,DF,22.0,5,370,0.0,0.0,0.0,0.0
+Southampton,IRL,FW,34.0,13,308,1.0,1.0,0.0,1.0
+Southampton,ARG,GK,39.0,2,180,0.0,1.0,0.0,0.0
+Southampton,IRL,"MF,FW",21.0,4,133,0.0,0.0,0.0,0.1
+Tottenham Hotspur,FRA,GK,34.0,38,"3,420",0.0,2.0,0.0,0.0
+Tottenham Hotspur,ENG,FW,28.0,37,"3,232",17.0,5.0,0.0,20.1
+Tottenham Hotspur,DEN,MF,25.0,36,"3,196",2.0,3.0,0.0,2.0
+Tottenham Hotspur,ENG,DF,27.0,35,"3,071",0.0,1.0,0.0,1.0
+Tottenham Hotspur,KOR,"FW,MF",29.0,35,"3,006",23.0,2.0,0.0,16.4
+Tottenham Hotspur,WAL,DF,28.0,29,"2,538",1.0,6.0,0.0,1.8
+Tottenham Hotspur,BRA,DF,22.0,31,"2,286",1.0,5.0,0.0,1.5
+Tottenham Hotspur,ESP,DF,24.0,25,"1,916",2.0,4.0,0.0,3.0
+Tottenham Hotspur,ARG,DF,23.0,22,"1,844",1.0,8.0,0.0,0.7
+Tottenham Hotspur,BRA,"FW,MF",28.0,34,"1,775",2.0,4.0,0.0,3.7
+Tottenham Hotspur,COL,DF,25.0,23,"1,631",2.0,4.0,0.0,2.1
+Tottenham Hotspur,URU,MF,24.0,17,"1,361",0.0,5.0,0.0,0.9
+Tottenham Hotspur,ENG,MF,20.0,18,"1,350",0.0,6.0,0.0,0.2
+Tottenham Hotspur,SWE,"MF,FW",21.0,18,"1,261",5.0,3.0,0.0,3.4
+Tottenham Hotspur,ENG,DF,21.0,15,"1,047",0.0,2.0,0.0,0.4
+Tottenham Hotspur,ENG,DF,22.0,11,735,0.0,4.0,1.0,0.4
+Tottenham Hotspur,ENG,MF,25.0,19,912,0.0,2.0,0.0,0.1
+Tottenham Hotspur,IRL,DF,29.0,15,875,2.0,0.0,0.0,2.5
+Tottenham Hotspur,ENG,"MF,FW",25.0,10,657,1.0,1.0,0.0,1.5
+Tottenham Hotspur,FRA,MF,24.0,9,484,1.0,1.0,0.0,0.5
+Tottenham Hotspur,NED,"FW,MF",23.0,25,565,3.0,1.0,0.0,3.1
+Tottenham Hotspur,ARG,"MF,FW",25.0,9,238,0.0,0.0,0.0,0.7
+Tottenham Hotspur,ESP,"FW,MF",20.0,9,94,0.0,0.0,0.0,0.0
+Tottenham Hotspur,WAL,DF,23.0,3,89,0.0,0.0,0.0,0.0
+Tottenham Hotspur,ENG,MF,17.0,1,4,0.0,0.0,0.0,0.0
+Watford,FRA,MF,31.0,36,"3,220",2.0,5.0,0.0,3.4
+Watford,NGA,"FW,MF",23.0,33,"2,581",10.0,9.0,1.0,7.5
+Watford,NIR,DF,32.0,31,"2,396",0.0,3.0,0.0,0.1
+Watford,NOR,FW,29.0,32,"2,248",5.0,5.0,0.0,8.0
+Watford,ENG,GK,38.0,26,"2,340",0.0,0.0,0.0,0.0
+Watford,ESP,DF,30.0,27,"2,142",0.0,2.0,0.0,0.1
+Watford,SVK,MF,34.0,26,"1,920",1.0,5.0,1.0,3.1
+Watford,SEN,"FW,MF",23.0,22,"1,861",5.0,2.0,0.0,4.2
+Watford,ENG,MF,31.0,28,"1,616",0.0,2.0,0.0,0.8
+Watford,BRA,DF,26.0,19,"1,673",0.0,4.0,0.0,0.3
+Watford,CIV,DF,27.0,19,"1,623",1.0,5.0,1.0,0.2
+Watford,MAR,MF,22.0,20,"1,416",0.0,6.0,0.0,1.1
+Watford,BRA,"FW,MF",19.0,28,"1,644",3.0,1.0,0.0,4.2
+Watford,NGA,DF,27.0,17,"1,390",0.0,3.0,0.0,0.1
+Watford,MAR,DF,27.0,15,"1,077",0.0,0.0,0.0,0.4
+Watford,BEL,DF,30.0,16,"1,193",0.0,0.0,0.0,0.7
+Watford,AUT,GK,27.0,12,"1,080",0.0,0.0,0.0,0.0
+Watford,COL,"FW,MF",22.0,25,"1,147",5.0,3.0,0.0,2.5
+Watford,ENG,DF,20.0,16,903,0.0,0.0,0.0,0.1
+Watford,COD,MF,22.0,13,799,0.0,0.0,0.0,0.2
+Watford,SWE,"MF,FW",27.0,18,852,0.0,1.0,0.0,0.2
+Watford,ENG,DF,31.0,8,689,0.0,4.0,0.0,0.2
+Watford,CHI,DF,24.0,5,427,0.0,0.0,0.0,0.0
+Watford,NGA,MF,25.0,9,401,0.0,3.0,0.0,0.0
+Watford,TUR,MF,26.0,7,334,0.0,0.0,0.0,0.5
+Watford,NGA,FW,23.0,4,222,0.0,0.0,0.0,0.3
+Watford,CMR,DF,31.0,3,168,0.0,0.0,0.0,0.0
+Watford,ENG,MF,31.0,4,166,1.0,0.0,0.0,0.2
+Watford,ENG,FW,25.0,3,30,0.0,0.0,0.0,0.4
+Watford,ENG,FW,33.0,2,25,0.0,0.0,0.0,0.4
+West Ham United,POL,GK,36.0,37,"3,330",0.0,2.0,0.0,0.0
+West Ham United,ENG,MF,22.0,36,"3,179",1.0,8.0,0.0,1.1
+West Ham United,CZE,MF,26.0,35,"3,062",5.0,3.0,0.0,4.8
+West Ham United,ENG,FW,24.0,36,"2,983",12.0,6.0,0.0,11.1
+West Ham United,JAM,FW,31.0,36,"2,971",10.0,8.0,1.0,11.1
+West Ham United,ESP,"FW,MF",25.0,36,"2,795",6.0,4.0,0.0,5.0
+West Ham United,ENG,DF,31.0,31,"2,726",2.0,3.0,0.0,1.1
+West Ham United,ENG,DF,31.0,34,"2,754",2.0,5.0,1.0,2.9
+West Ham United,ALG,"FW,MF",25.0,32,"2,168",8.0,0.0,0.0,5.1
+West Ham United,CZE,DF,28.0,28,"2,209",0.0,5.0,1.0,0.6
+West Ham United,FRA,DF,26.0,24,"2,078",1.0,1.0,0.0,0.9
+West Ham United,ARG,"MF,FW",28.0,30,"1,786",5.0,2.0,0.0,3.4
+West Ham United,ENG,DF,21.0,20,"1,397",1.0,1.0,0.0,0.1
+West Ham United,ITA,DF,33.0,11,921,1.0,1.0,0.0,0.3
+West Ham United,FRA,DF,24.0,13,963,0.0,0.0,0.0,0.1
+West Ham United,COD,"DF,FW",27.0,13,650,1.0,1.0,0.0,0.1
+West Ham United,CRO,"FW,MF",23.0,19,560,1.0,0.0,0.0,1.0
+West Ham United,ENG,MF,34.0,11,332,1.0,0.0,0.0,1.5
+West Ham United,ENG,DF,28.0,7,307,0.0,1.0,0.0,0.0
+West Ham United,UKR,FW,31.0,19,316,1.0,1.0,0.0,0.8
+West Ham United,FRA,GK,28.0,1,90,0.0,0.0,0.0,0.0
+West Ham United,SCO,DF,19.0,1,7,0.0,0.0,0.0,0.0
+West Ham United,ENG,FW,17.0,1,4,0.0,0.0,0.0,0.0
+West Ham United,ENG,MF,19.0,1,1,0.0,0.0,0.0,0.0
+West Ham United,CZE,MF,23.0,1,1,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,ENG,DF,28.0,38,"3,361",4.0,4.0,0.0,2.0
+Wolverhampton Wanderers,POR,GK,28.0,37,"3,285",0.0,3.0,0.0,0.0
+Wolverhampton Wanderers,POR,MF,34.0,35,"2,970",2.0,4.0,0.0,1.0
+Wolverhampton Wanderers,MAR,DF,31.0,31,"2,705",2.0,6.0,0.0,2.7
+Wolverhampton Wanderers,POR,MF,24.0,33,"2,661",4.0,9.0,0.0,1.2
+Wolverhampton Wanderers,ENG,DF,24.0,30,"2,687",1.0,3.0,0.0,1.0
+Wolverhampton Wanderers,MEX,FW,30.0,34,"2,631",6.0,9.0,2.0,6.6
+Wolverhampton Wanderers,POR,DF,27.0,25,"2,131",0.0,1.0,0.0,1.4
+Wolverhampton Wanderers,BEL,MF,26.0,30,"1,950",2.0,4.0,0.0,2.6
+Wolverhampton Wanderers,FRA,DF,20.0,23,"1,828",1.0,4.0,0.0,0.7
+Wolverhampton Wanderers,KOR,"FW,MF",25.0,30,"1,816",5.0,2.0,0.0,4.0
+Wolverhampton Wanderers,BRA,DF,32.0,18,"1,449",0.0,3.0,0.0,0.5
+Wolverhampton Wanderers,POR,"FW,MF",21.0,28,"1,336",2.0,0.0,0.0,3.4
+Wolverhampton Wanderers,POR,"FW,MF",25.0,26,"1,484",2.0,2.0,0.0,1.9
+Wolverhampton Wanderers,ESP,FW,25.0,20,"1,067",1.0,0.0,0.0,2.4
+Wolverhampton Wanderers,ESP,DF,27.0,13,"1,024",2.0,1.0,0.0,0.8
+Wolverhampton Wanderers,CIV,DF,30.0,10,900,0.0,1.0,0.0,0.2
+Wolverhampton Wanderers,POR,FW,19.0,22,572,0.0,0.0,0.0,2.3
+Wolverhampton Wanderers,POR,"FW,MF",21.0,13,466,1.0,3.0,0.0,1.5
+Wolverhampton Wanderers,POR,DF,22.0,4,360,0.0,1.0,0.0,0.1
+Wolverhampton Wanderers,NED,DF,19.0,8,308,0.0,1.0,0.0,0.0
+Wolverhampton Wanderers,ENG,MF,19.0,4,180,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,POR,"DF,MF",21.0,8,208,0.0,0.0,0.0,0.3
+Wolverhampton Wanderers,ENG,GK,34.0,2,135,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,WAL,MF,18.0,1,13,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,ENG,"FW,MF",21.0,2,9,0.0,1.0,0.0,0.1
