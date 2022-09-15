@@ -1,0 +1,4 @@
+conda install numpy
+conda install pandas
+conda install -c conda-forge matplotlib 
+conda install tensorflow=2.6.0
